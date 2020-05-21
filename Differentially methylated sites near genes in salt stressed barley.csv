@@ -1,7 +1,7 @@
 Tissue,Leaf,,,Leaf,,,Leaf,,,Root,,,Root,,,Root,,
 Context,CG,,,CHG,,,CHH,,,CG,,,CHG,,,CHH,,
-Total number of differentially methylated sites,84,,,69,,,"5,587",,,247,,,143,,,"6,295",,
-Total unique genes listed,78,,,67,,,"4,337",,,238,,,134,,,"4,704",,
+Total number of differentially methylated sites,84,,,69,,,5587,,,247,,,143,,,6295,,
+Total unique genes listed,78,,,67,,,4337,,,238,,,134,,,4704,,
 ,Gene,Methylation difference (%),log10(adj-p),Gene,Methylation difference (%),log10(adj-p),Gene,Methylation difference (%),log10(adj-p),Gene,Methylation difference (%),log10(adj-p),Gene,Methylation difference (%),log10(adj-p),Gene,Methylation difference (%),log10(adj-p)
 ,HORVU6Hr1G033380,100.0,-1.69,HORVU4Hr1G044370,80.0,-2.13,HORVU1Hr1G000990,100.0,-4.09,HORVU1Hr1G016600,100.0,-2.38,HORVU6Hr1G025500,100.0,-2.23,HORVU1Hr1G036060,100.0,-4.22
 ,HORVU6Hr1G011260,92.3,-3.37,HORVU2Hr1G060460,78.6,-2.36,HORVU1Hr1G019530,100.0,-3.66,HORVU3Hr1G031320,100.0,-6.72,HORVU5Hr1G092290,88.0,-2.05,HORVU1Hr1G046320,100.0,-3.55
